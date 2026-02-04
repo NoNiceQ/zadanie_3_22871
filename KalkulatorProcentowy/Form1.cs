@@ -19,7 +19,7 @@ namespace KalkulatorProcentowy
 
         private void button_test_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("test działa");
+            MessageBox.Show("test działa poprawie");
         }
     }
 }
